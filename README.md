@@ -16,5 +16,6 @@ Day | Problem | Solution
 11 | [Subsets](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/) | [C++](https://github.com/ckhurana/leetcode_challenge/blob/20_07_july_challenge/cpp/day11.cpp)
 12 | [Reverse Bits](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/) | [C++](https://github.com/ckhurana/leetcode_challenge/blob/20_07_july_challenge/cpp/day12.cpp)
 13 | [Same Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) | [C++](https://github.com/ckhurana/leetcode_challenge/blob/20_07_july_challenge/cpp/day13.cpp)
+14 | [Angle Between Hands of a Clock](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) | [C++](https://github.com/ckhurana/leetcode_challenge/blob/20_07_july_challenge/cpp/day14.cpp)
 
 Visit my website for other content: [Chirag Khurana](http://chiragkhurana.com).
